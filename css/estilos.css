@@ -9,6 +9,29 @@ body
     padding: 0;
 }
 
+#header
+{
+    background: #37488b;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 1.5em;
+}
+
+#header #logo
+{
+    width: 30px;
+    vertical-align: middle;
+}
+
+#header #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 #container
 {
     width: 70%;
