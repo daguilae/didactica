@@ -1,0 +1,47 @@
+[33mcommit d76e9b80e1b633761c6555174322ca58643f56fc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/footer[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Aug 29 23:48:10 2019 -0600
+
+    Se agrega el footer de la pagina y su respectivo css
+
+[33mcommit a2b11faae8bd528e9009bfcf76f2a6e3036aaf38[m[33m ([m[1;31morigin/header[m[33m)[m
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Aug 29 23:32:12 2019 -0600
+
+    Haciendo cambios en la cabecera (header) y agregando el logo en la cabecera
+
+[33mcommit 34fc24e4c149f7f341e8de53a99b4af43e7b0a3c[m
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Aug 29 23:30:05 2019 -0600
+
+    agregando el logo del sitio
+
+[33mcommit e52c4e208589c5a049d506eb051f0eb04e456c18[m
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Aug 29 23:01:17 2019 -0600
+
+    Se agrega el container y se arreglan los titulos con css
+
+[33mcommit ad65281322d7ae22a7df2bfcc37a6b3265aac6c4[m
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Aug 29 22:51:27 2019 -0600
+
+    css/estilos.css
+
+[33mcommit 4fc9ffab98587d0028ead1334c6ecf0f7e8e9af8[m
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Aug 29 22:50:21 2019 -0600
+
+    Se agrega el Css a la pagina
+
+[33mcommit c66f2350c53c1412c03a254c1210753155cf3120[m
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Aug 29 22:35:03 2019 -0600
+
+    Inicia el reto
+
+[33mcommit 99a59525d6e65c429716f6eb7fa02aa474b097e6[m
+Author: daguilae <daguilae@hotmail.com>
+Date:   Thu Aug 29 16:45:57 2019 -0600
+
+    Initial commit
