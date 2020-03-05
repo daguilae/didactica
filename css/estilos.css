@@ -52,9 +52,17 @@ body
 }
 
 #footer
-{
-    background: #ff8000;
-    color: white;
-    text-align: center;
-    padding: 1.0em;
-}
+ {
+     background: #ff8000;
+     color: white;
+     text-align: center;
+     padding: 1.0em;
+ }
+
+ #hotfix
+  {
+      background: #249d7c;
+      color: red;
+      text-align: center;
+      padding: 1.0em;
+  }
