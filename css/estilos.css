@@ -50,7 +50,11 @@ body
     background: white;
     padding: 1em;
 }
-
+#comentarios
+{
+    background: #ffff00;
+    padding: 1em;
+}
 #footer
 {
     background: #777;
