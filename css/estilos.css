@@ -31,7 +31,17 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
+#COMENT
+{
+    color: whitesmoke;
+    font-size: 12px;
+}
 
+#TITULO  
+{
+    color: white;  
+     
+}
 #container
 {
     width: 70%;
