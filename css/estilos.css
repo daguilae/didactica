@@ -50,11 +50,18 @@ body
     background: white;
     padding: 1em;
 }
+#Hotflix{
+
+background: black;
+color: white;
+text-align: center;
+
+}
 
 #footer
 {
     background: #777;
-    color: blue;
+    color: yellow;
     text-align: center;
     padding: 1.0em;
 }
