@@ -53,8 +53,17 @@ body
 
 #footer
 {
-    background: rgb(238, 90, 4);
+    background: #E7991A;
     color: white;
     text-align: center;
     padding: 1.0em;
+}
+
+#Comentario
+{
+    background: #47CC1C;
+    color: white;
+    text-align: center;
+    padding: 1.0em;
+
 }
