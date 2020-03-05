@@ -50,6 +50,11 @@ body
     background: white;
     padding: 1em;
 }
+#comentario
+{
+    background: yellow;
+    padding: 1em;
+}
 
 #footer
 {
