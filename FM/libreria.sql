@@ -4,7 +4,7 @@ usuarios
 CREATE TABLE productos 
 (
 	codigoProductos VARCHAR(18) PRIMARY KEY NOT NULL,
-    nombreProductos VARCHAR(80),
+    nombreProductos VARCHAR(100),
     codigoMarca VARCHAR(5),
     codigoLinea VARCHAR(5),
     codigoTipoProducto VARCHAR(5),
