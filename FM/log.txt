@@ -1,0 +1,236 @@
+commit 6cba73a6a637b2afd049a2452dc75ea555da5ccd
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Tue Apr 21 07:34:58 2020 -0600
+
+    agregue consultas_libreria.sql
+
+commit 1c4d0caba08f9e462de6c33effee7923bdbbec5f
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Tue Apr 21 07:30:37 2020 -0600
+
+    Creacion Script SQL
+
+commit 5966321becaf98b2cc7c749ee540087c00a58b29
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Fri Mar 27 09:31:03 2020 -0600
+
+    Script ayuda de GIT
+
+commit 8770dea228f128fbd624684bdd94949f4b7726b2
+Merge: 11109f6 5e74609
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Fri Mar 27 08:21:48 2020 -0600
+
+    Merge branch 'master' of https://github.com/daguilae/didactica
+
+commit 11109f64b1478a2a9c63622138f193cbebcf8e46
+Merge: e2715c2 f3443db
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Fri Mar 27 08:21:33 2020 -0600
+
+    depuracion
+
+commit 5e746090627d6f1e760ec26f468bfd73a27cb77b
+Merge: df433e4 05aaa74
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Tue Mar 24 11:16:38 2020 -0600
+
+    Merge branch 'master' of https://github.com/daguilae/didactica
+    
+    prueba
+
+commit df433e43177626edb10f44d491f234f08149320b
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Tue Mar 24 11:16:00 2020 -0600
+
+    creacion nomina 5
+
+commit 05aaa741196d73c446cc31f8a9988aee2506e122
+Merge: 063153b b172290
+Author: daguilae <daguilae@hotmail.com>
+Date:   Tue Mar 24 11:10:21 2020 -0600
+
+    Merge pull request #31 from edelaguila/master
+    
+    creacion umg4
+
+commit b172290bfad7bb4a2c070431d8c6e48ba1db7877
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Tue Mar 24 11:02:09 2020 -0600
+
+    creacion umg4
+
+commit 063153b5544ab2bc010e375f6927ffaf159d007c
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Tue Mar 24 07:47:44 2020 -0600
+
+    Creada la base de datos umg3
+
+commit 34bdcd86e411a6fbdcd295d921ccf10da333ed6a
+Merge: 0aca671 68466bf
+Author: daguilae <daguilae@hotmail.com>
+Date:   Tue Mar 24 07:41:15 2020 -0600
+
+    Merge pull request #30 from edelaguila/master
+    
+    segundo script realizado
+
+commit 68466bfcfbbe1c275d66c9bbfae25e2b2f802c81
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Tue Mar 24 07:36:11 2020 -0600
+
+    segundo script
+
+commit 0aca6716a4deb8c3a8b1550af5edccc5ad147d54
+Merge: e2715c2 9669bc4
+Author: daguilae <daguilae@hotmail.com>
+Date:   Tue Mar 24 07:34:36 2020 -0600
+
+    Merge pull request #29 from edelaguila/master
+    
+    Primer script sql
+
+commit 9669bc41aab4fd39800b5692e82aac670017a953
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Tue Mar 24 07:22:59 2020 -0600
+
+    Primer script sql
+
+commit f3443dbe4a5bc6a334b6e7e0ff364caad99c1e80
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Mar 5 11:53:05 2020 -0600
+
+    Se agrego el contenedor de comentarios
+
+commit e2715c2868aa32b38fd22125d54694187f8043a3
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Mar 5 11:05:33 2020 -0600
+
+    modificacion pie de pagina progra III
+
+commit e96a6e09da46ffacf966bf7e09ce9fc77eb98ace
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Mar 5 09:45:18 2020 -0600
+
+    Cambie el pie de pagina
+
+commit c4cd32d58bdd36dfa2e39e2c502450b520b3c18f
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Feb 6 14:33:54 2020 -0600
+
+    prueba3
+
+commit 2c2f584c5f2681dcff716175c876601fad2df015
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Jan 23 11:04:40 2020 -0600
+
+    Mi primera version de la nomina
+
+commit 46be226683e287d54a949ad56045a9c2e22e516a
+Author: daguilae <daguilae@hotmail.com>
+Date:   Thu Jan 23 10:55:12 2020 -0600
+
+    Create Prueba program 3.txt
+
+commit 22b83625e67aaed3b25712aace382ce42fa6ce48
+Author: daguilae <daguilae@hotmail.com>
+Date:   Thu Jan 23 09:57:38 2020 -0600
+
+    Create comentarios.txt
+
+commit b351ff0f1613cbd7ba729ac011071e94e9bbef0e
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Jan 23 09:51:52 2020 -0600
+
+    Segundo cambio
+
+commit 76c661bb74bd39f0c0ea008d06763e258dfc1c6a
+Author: daguilae <daguilae@hotmail.com>
+Date:   Thu Jan 23 09:28:18 2020 -0600
+
+    Create descarga.txt
+
+commit d2605c3bfadbf2a69a3ff1be98109f10b2c22f9a
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Jan 23 09:07:35 2020 -0600
+
+    Correccion ingreso de datos
+
+commit 51d9c3d3fb3b5b14ebd4039f09bd7266cd752d54
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Jan 23 07:39:02 2020 -0600
+
+    version 1
+
+commit ac004a9eb297a0549f6ed8ef6fdcf7a13230b689
+Author: daguilae <daguilae@hotmail.com>
+Date:   Fri Aug 30 11:55:37 2019 -0600
+
+    agregamos el archivo .gitignore e hicimos mantenimiento al blog en las tildes
+
+commit a1c508548b0a34dbd027882862a5d9a963fa67b7
+Merge: ba63cf4 507f850
+Author: daguilae <daguilae@hotmail.com>
+Date:   Fri Aug 30 09:56:02 2019 -0600
+
+    Merge branch 'master' of https://github.com/daguilae/didactica
+
+commit ba63cf4d1f950b7c53fb4f4648ec74959ca13d8c
+Author: daguilae <daguilae@hotmail.com>
+Date:   Fri Aug 30 09:55:41 2019 -0600
+
+    Agregando plantilla de issue o problemas para el proyecto
+
+commit 507f8502d42dd80b7d7f1c54237320567c99c042
+Author: daguilae <daguilae@hotmail.com>
+Date:   Fri Aug 30 09:47:57 2019 -0600
+
+    Update issue templates
+
+commit d76e9b80e1b633761c6555174322ca58643f56fc
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Aug 29 23:48:10 2019 -0600
+
+    Se agrega el footer de la pagina y su respectivo css
+
+commit a2b11faae8bd528e9009bfcf76f2a6e3036aaf38
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Aug 29 23:32:12 2019 -0600
+
+    Haciendo cambios en la cabecera (header) y agregando el logo en la cabecera
+
+commit 34fc24e4c149f7f341e8de53a99b4af43e7b0a3c
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Aug 29 23:30:05 2019 -0600
+
+    agregando el logo del sitio
+
+commit e52c4e208589c5a049d506eb051f0eb04e456c18
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Aug 29 23:01:17 2019 -0600
+
+    Se agrega el container y se arreglan los titulos con css
+
+commit ad65281322d7ae22a7df2bfcc37a6b3265aac6c4
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Aug 29 22:51:27 2019 -0600
+
+    css/estilos.css
+
+commit 4fc9ffab98587d0028ead1334c6ecf0f7e8e9af8
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Aug 29 22:50:21 2019 -0600
+
+    Se agrega el Css a la pagina
+
+commit c66f2350c53c1412c03a254c1210753155cf3120
+Author: Esduardo Del Aguila <daguilae@hotmail.com>
+Date:   Thu Aug 29 22:35:03 2019 -0600
+
+    Inicia el reto
+
+commit 99a59525d6e65c429716f6eb7fa02aa474b097e6
+Author: daguilae <daguilae@hotmail.com>
+Date:   Thu Aug 29 16:45:57 2019 -0600
+
+    Initial commit
