@@ -1,2 +1,2 @@
 # didactica
-Repositorio de practica didactica
+Repositorio de practica didactica UMG
